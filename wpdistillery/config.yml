@@ -17,7 +17,7 @@ wpversion: latest
 
 # language/timezone
 wplocale: en_US
-timezone: "America/New_York"
+timezone: "America/Los_Angeles"
 
 # admin user settings
 admin:
